@@ -24,6 +24,7 @@ function App() {
         return index !== id;
       });
     });
+    setItem("");
   }
 
   return (
